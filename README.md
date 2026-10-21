@@ -10,7 +10,17 @@
 
 I build the tools I miss myself: for the DJ booth, for the workbench and for everyday work with industrial networks. Everything here is free, open source and runs on plain Windows without a complicated setup.
 
+## 🗂️ Projects by category
+
+| Category | Projects |
+|---|---|
+| 🎧 [DJ & Audio](#-dj--audio) | [StemMaker](#-stemmaker) |
+| 🏭 [Industrial networks](#-industrial-networks) | [Network Ping Tool](#-network-ping-tool) |
+| 🔌 [Electronics](#-electronics) | *coming soon* |
+
 ---
+
+# 🎧 DJ & Audio
 
 ## 🎛️ StemMaker
 
@@ -31,6 +41,8 @@ StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four sepa
 
 <br clear="right">
 
+# 🏭 Industrial networks
+
 ## 📡 Network Ping Tool
 
 **Check a whole list of devices with one click.**
@@ -43,6 +55,10 @@ An Excel VBA tool for industrial networks: ping PLCs, HMIs and other Profinet de
 
 [![Repository](https://img.shields.io/badge/GitHub-Network--Ping--Tool-24292f?style=flat-square&logo=github)](https://github.com/Elospeed/Network-Ping-Tool)
 ![Excel VBA](https://img.shields.io/badge/Excel-VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+# 🔌 Electronics
+
+Small helpers for the workbench are on the way.
 
 ---
 
