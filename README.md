@@ -10,7 +10,17 @@
 
 I build the tools I miss myself: for the DJ booth, for the workbench and for everyday work with industrial networks. Everything here is free, open source and runs on plain Windows without a complicated setup.
 
+## 🗂️ Projects by category
+
+| Category | Projects |
+|---|---|
+| 🎧 [DJ & Audio](#-dj--audio) | [StemMaker](#-stemmaker) |
+| 🏭 [Industrial networks](#-industrial-networks) | [Network Ping Tool](#-network-ping-tool) |
+| 🔌 [Electronics](#-electronics) | [LedPreResistor](#-ledpreresistor) |
+
 ---
+
+# 🎧 DJ & Audio
 
 ## 🎛️ StemMaker
 
@@ -34,6 +44,8 @@ StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four sepa
 
 <br clear="right">
 
+# 🏭 Industrial networks
+
 ## 📡 Network Ping Tool
 
 **Check a whole list of devices with one click.**
@@ -46,6 +58,27 @@ An Excel VBA tool for industrial networks: ping PLCs, HMIs and other Profinet de
 
 [![Repository](https://img.shields.io/badge/GitHub-Network--Ping--Tool-24292f?style=flat-square&logo=github)](https://github.com/Elospeed/Network-Ping-Tool)
 ![Excel VBA](https://img.shields.io/badge/Excel-VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+# 🔌 Electronics
+
+## 💡 LedPreResistor
+
+<img src="https://raw.githubusercontent.com/Elospeed/LedPreResistor/main/site/img/icon-192.png" align="right" width="110" alt="LedPreResistor icon">
+
+**Find the right series resistor for your LED.**
+A free LED series resistor calculator for Windows: enter supply voltage, LED colour and current, and it picks the matching standard resistor and explains every step of the calculation with your own values.
+
+- Standard values from the E12, E24 and E96 series, with colour bands
+- Power dissipation and load check of the resistor
+- Step-by-step explanation of the calculation, great for learning
+- LED info and a live LED preview in the selected colour
+
+[![Website](https://img.shields.io/badge/Website-elospeed.github.io%2FLedPreResistor-1f6feb?style=flat-square)](https://elospeed.github.io/LedPreResistor/)
+[![Repository](https://img.shields.io/badge/GitHub-LedPreResistor-24292f?style=flat-square&logo=github)](https://github.com/Elospeed/LedPreResistor)
+[![Release](https://img.shields.io/github/v/release/Elospeed/LedPreResistor?style=flat-square&label=Download)](https://github.com/Elospeed/LedPreResistor/releases/latest)
+[![License](https://img.shields.io/github/license/Elospeed/LedPreResistor?style=flat-square)](https://github.com/Elospeed/LedPreResistor/blob/main/LICENSE)
+
+<br clear="right">
 
 ---
 
