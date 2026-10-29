@@ -35,6 +35,7 @@ StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four sepa
 - Turbo engine since 2.0: 6 to 10 times faster on the CPU, uses your graphics card when it helps (NVIDIA, AMD, Intel)
 - Batch conversion of whole folders, resumes where it stopped
 - Built-in StemPlayer to listen to each stem before the gig
+- New in 2.1: StemTagger to set title, artist and cover of your stem files
 - Optional club level and bass fix for punchy, consistent stems
 
 ▶ [StemMaker 2.0 in 73 seconds on YouTube](https://youtu.be/B0LE8mc-MEM)
