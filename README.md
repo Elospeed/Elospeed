@@ -17,12 +17,15 @@ I build the tools I miss myself: for the DJ booth, for the workbench and for eve
 <img src="https://raw.githubusercontent.com/Elospeed/StemMaker/main/art/stemmaker_icon_1024.png" align="right" width="110" alt="StemMaker icon">
 
 **Turn your own tracks into Traktor stem files.**
-StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four separate parts: drums, bass, melody and vocals. Load them in Traktor and mix each part on its own.
+StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four separate parts: drums, bass, melody and vocals. Load them in Traktor or Mixxx 2.6 (beta) and mix each part on its own.
 
 - One small native Windows program, no Python, no setup
+- Turbo engine since 2.0: 6 to 10 times faster on the CPU, uses your graphics card when it helps (NVIDIA, AMD, Intel)
 - Batch conversion of whole folders, resumes where it stopped
 - Built-in StemPlayer to listen to each stem before the gig
 - Optional club level and bass fix for punchy, consistent stems
+
+▶ [StemMaker 2.0 in 73 seconds on YouTube](https://youtu.be/B0LE8mc-MEM)
 
 [![Website](https://img.shields.io/badge/Website-elospeed.github.io%2FStemMaker-1f6feb?style=flat-square)](https://elospeed.github.io/StemMaker/)
 [![Repository](https://img.shields.io/badge/GitHub-StemMaker-24292f?style=flat-square&logo=github)](https://github.com/Elospeed/StemMaker)
