@@ -6,6 +6,8 @@
 
 **Auf Deutsch:** *Hobby-DJ, Elektronik-Bastler und Entwickler kleiner, nützlicher Software-Tools. Alles kostenlos und Open Source.*
 
+🌐 **All my tools on one page / Alle Tools auf einer Seite:** [elospeed.github.io](https://elospeed.github.io/)
+
 </div>
 
 I build the tools I miss myself: for the DJ booth, for the workbench and for everyday work with industrial networks. Everything here is free, open source and runs on plain Windows without a complicated setup.
