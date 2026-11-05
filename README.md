@@ -16,7 +16,7 @@ I build the tools I miss myself: for the DJ booth, for the workbench and for eve
 
 | Category | Projects |
 |---|---|
-| 🎧 [DJ & Audio](#-dj--audio) | [StemMaker](#-stemmaker) |
+| 🎧 [DJ & Audio](#-dj--audio) | [StemMaker](#-stemmaker) · [StemTagger](#-stemtagger) · [StemPacker](#-stempacker) |
 | 🏭 [Industrial networks](#-industrial-networks) | [Network Ping Tool](#-network-ping-tool) |
 | 🔌 [Electronics](#-electronics) | [LedPreResistor](#-ledpreresistor) |
 
@@ -35,7 +35,8 @@ StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four sepa
 - Turbo engine since 2.0: 6 to 10 times faster on the CPU, uses your graphics card when it helps (NVIDIA, AMD, Intel)
 - Batch conversion of whole folders, resumes where it stopped
 - Built-in StemPlayer to listen to each stem before the gig
-- New in 2.1: StemTagger to set title, artist and cover of your stem files
+- Includes StemTagger to set title, artist and cover of your stem files
+- New in 2.2: nine languages (English, German, Spanish, French, Portuguese, Italian, Japanese, Dutch, Polish)
 - Optional club level and bass fix for punchy, consistent stems
 
 ▶ [StemMaker 2.0 in 73 seconds on YouTube](https://youtu.be/B0LE8mc-MEM)
@@ -46,6 +47,20 @@ StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four sepa
 [![License](https://img.shields.io/github/license/Elospeed/StemMaker?style=flat-square)](https://github.com/Elospeed/StemMaker/blob/main/LICENSE)
 
 <br clear="right">
+
+## 🏷️ StemTagger
+
+**Edit tags and cover art without breaking your stems.**
+Sets title, artist, album, genre and cover art in Traktor stem files (`.stem.mp4`) and MP3s, for a whole folder at once. Only the tags are rewritten: the stems, the audio and Traktor's cue points, loops and beatgrid stay untouched. Portable ZIP, also included in StemMaker.
+
+[![Website](https://img.shields.io/badge/Website-elospeed.github.io%2FStemTagger-1f6feb?style=flat-square)](https://elospeed.github.io/StemTagger/)
+
+## 📦 StemPacker
+
+**Pack finished tracks into Traktor stem files, without AI.**
+A master plus up to four stems per song, for example from your DAW, a 5.1 DVD or another separation tool, packed in batches into `.stem.mp4`. Your own stem names and colours, tags and cover from the master, AAC or lossless ALAC.
+
+[![Website](https://img.shields.io/badge/Website-elospeed.github.io%2FStemPacker-1f6feb?style=flat-square)](https://elospeed.github.io/StemPacker/)
 
 # 🏭 Industrial networks
 
