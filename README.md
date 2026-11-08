@@ -10,14 +10,13 @@
 
 </div>
 
-I build the tools I miss myself: for the DJ booth, for the workbench and for everyday work with industrial networks. Everything here is free, open source and runs on plain Windows without a complicated setup.
+I build the tools I miss myself: for the DJ booth and for the workbench. Everything here is free, open source and runs on plain Windows without a complicated setup.
 
 ## 🗂️ Projects by category
 
 | Category | Projects |
 |---|---|
 | 🎧 [DJ & Audio](#-dj--audio) | [StemMaker](#-stemmaker) · [StemTagger](#-stemtagger) · [StemPacker](#-stempacker) |
-| 🏭 [Industrial networks](#-industrial-networks) | [Network Ping Tool](#-network-ping-tool) |
 | 🔌 [Electronics](#-electronics) | [LedPreResistor](#-ledpreresistor) |
 
 ---
@@ -61,21 +60,6 @@ Sets title, artist, album, genre and cover art in Traktor stem files (`.stem.mp4
 A master plus up to four stems per song, for example from your DAW, a 5.1 DVD or another separation tool, packed in batches into `.stem.mp4`. Your own stem names and colours, tags and cover from the master, AAC or lossless ALAC.
 
 [![Website](https://img.shields.io/badge/Website-elospeed.github.io%2FStemPacker-1f6feb?style=flat-square)](https://elospeed.github.io/StemPacker/)
-
-# 🏭 Industrial networks
-
-## 📡 Network Ping Tool
-
-**Check a whole list of devices with one click.**
-An Excel VBA tool for industrial networks: ping PLCs, HMIs and other Profinet devices (e.g. Siemens CPUs) straight from Excel, instead of typing `ping` into a command prompt over and over.
-
-- Fast ICMP ping via the Windows API, no extra programs needed
-- Three scan modes, clean cancel, correct numeric IP sorting
-- Pings one device at a time on purpose, so company firewalls and endpoint security stay calm
-- Full source code also included as plain text
-
-[![Repository](https://img.shields.io/badge/GitHub-Network--Ping--Tool-24292f?style=flat-square&logo=github)](https://github.com/Elospeed/Network-Ping-Tool)
-![Excel VBA](https://img.shields.io/badge/Excel-VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 # 🔌 Electronics
 
