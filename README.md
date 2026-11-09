@@ -38,7 +38,7 @@ StemMaker converts MP3, WAV, FLAC and more into `.stem.mp4` files with four sepa
 - New in 2.2: nine languages (English, German, Spanish, French, Portuguese, Italian, Japanese, Dutch, Polish)
 - Optional club level and bass fix for punchy, consistent stems
 
-▶ [StemMaker 2.0 in 73 seconds on YouTube](https://youtu.be/B0LE8mc-MEM)
+▶ [Watch StemMaker in 73 seconds on YouTube](https://youtu.be/B0LE8mc-MEM)
 
 [![Website](https://img.shields.io/badge/Website-elospeed.github.io%2FStemMaker-1f6feb?style=flat-square)](https://elospeed.github.io/StemMaker/)
 [![Repository](https://img.shields.io/badge/GitHub-StemMaker-24292f?style=flat-square&logo=github)](https://github.com/Elospeed/StemMaker)
